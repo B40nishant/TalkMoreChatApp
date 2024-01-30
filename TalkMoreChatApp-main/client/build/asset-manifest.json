@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.def74d5c.css",
+    "main.js": "/static/js/main.bbc31e85.js",
+    "static/media/picforsignup.jpg": "/static/media/picforsignup.e47ebcd7c8a959ed393b.jpg",
+    "index.html": "/index.html",
+    "main.def74d5c.css.map": "/static/css/main.def74d5c.css.map",
+    "main.bbc31e85.js.map": "/static/js/main.bbc31e85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def74d5c.css",
+    "static/js/main.bbc31e85.js"
+  ]
+}
